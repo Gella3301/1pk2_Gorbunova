@@ -9,6 +9,10 @@
             ArrayGeneration(n);
             
         }
+        /// <summary>
+        /// метод генерирует массив по заданному параметру
+        /// </summary>
+        /// <param name="n">размер массива</param>
         static void ArrayGeneration(int n)
         { 
             int [,] array = new int[n, n];
