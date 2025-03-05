@@ -7,7 +7,7 @@
             Console.WriteLine("Введите число n");
             int n = int.Parse(Console.ReadLine());
             ArrayGeneration(n);
-            //Console.WriteLine(ArrayGeneration(n));
+            
         }
         static void ArrayGeneration(int n)
         { 
